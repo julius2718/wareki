@@ -1,0 +1,7 @@
+[package]
+name = "wareki"
+version = "1.0.0"
+entrypoint = "wareki.typ"
+authors = ["julius2718 <https://github.com/julius2718>"]
+license = "MIT"
+description = "A converter for Japanese calendar. 西暦から和暦への変換ツール。"
